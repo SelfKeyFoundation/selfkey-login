@@ -4,7 +4,7 @@
 
 All development is to follow the [standard git-flow](http://nvie.com/posts/a-successful-git-branching-model/) process, modified to allow for code-reviews.
 
-See this handy, if ugly, [cheat sheet](http://danielkummer.github.io/git-flow-cheatsheet/).
+A list of git-flow commands can be found [here](http://danielkummer.github.io/git-flow-cheatsheet/).
 
 ### Setup
 
